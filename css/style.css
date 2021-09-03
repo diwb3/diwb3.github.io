@@ -168,6 +168,10 @@ header{
 	
 	color: white;
 }
+.swu-content span{
+	font-size: 12px;
+	letter-spacing: 0.15em;
+}
 .swu-content h2{
 	color: white;
 	font-size: 48px;
