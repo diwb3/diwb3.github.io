@@ -188,11 +188,13 @@ header{
 .footer{
 	background: #0D0D0D;
 	padding: 96px 0 35px 0;
+	
 
 }
 .footer img{
 	margin: 0 10px;
 }
+
 .end-text{
 	display: flex; 
 	justify-content: space-between;
